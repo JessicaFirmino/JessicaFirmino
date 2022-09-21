@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jessica!
 
-Apaixonada por música e me vi em uma situação que eu gostaria de usar minhas habilidades adquiridas na música, para outra aŕea que eu pudesse me apaixonar novamente e me manter financeiramente. 
+Apaixonada por música e me vi em uma situação que eu gostaria de usar minhas habilidades adquiridas na música, para outra aréa que eu pudesse me apaixonar novamente e me manter financeiramente. 
   
   😁 Conheci a programação, pronto estou amando novamente!💓
   

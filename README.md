@@ -25,7 +25,7 @@ Apaixonada por música e me vi em uma situação que eu gostaria de usar minhas 
   <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
   
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+ 
   ![snake gif](https://github.com/JessicaFirmino/JessicaFirmino/blob/output/github-contribution-grid-snake.svg)
           
           

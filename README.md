@@ -4,7 +4,7 @@ Apaixonada por música e me vi em uma situação que eu gostaria de usar minhas 
   
   😁 Conheci a programação, pronto estou amando novamente!💓
   
-  💻Estudanre de programação
+  💻Estudante de programação
   
   👨‍👧‍👦Amo demais minha familía
   <div align="center">

@@ -1,12 +1,16 @@
 ### Olá, eu sou a Jessica!
 
-Apaixonada por música e me vi em uma situação que eu gostaria de usar minhas habilidades adquiridas na música, para outra aréa que eu pudesse me apaixonar novamente e me manter financeiramente. 
+Sou estudante de programação, estudo gestão de tecnologia da informação na unip, 
+estou no último semestre.
+
+Atualmente estudo as tecnologias, java, javascript, HTML5, CSS3, JQuery, Angular, 
+bootstrap, react native, POO.
+
+Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
+
+
   
-  😁 Conheci a programação, pronto estou amando novamente!💓
-  
-  💻Estudante de programação
-  
-  👨‍👧‍👦Amo demais minha familía
+
   <div align="center">
   <a href="https://github.com/JessicaFirmino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaFirmino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>

@@ -1,4 +1,5 @@
-### Olá, eu sou a Jessica!
+<div align="center">
+  Olá, eu sou a Jessica!
 
 Sou estudante de programação, estudo gestão de tecnologia da informação na unip, 
 estou no último semestre.
@@ -7,6 +8,12 @@ Atualmente estudo as tecnologias, java, javascript, HTML5, CSS3, JQuery, Angular
 bootstrap, react native, POO.
 
 Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
+</div>
+
+
+
+
+
 
 
   
@@ -15,7 +22,7 @@ Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
   <a href="https://github.com/JessicaFirmino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaFirmino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaFirmino&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,4 +39,4 @@ Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
  
   ![snake gif](https://github.com/JessicaFirmino/JessicaFirmino/blob/output/github-contribution-grid-snake.svg)
           
-          
+    </div>

@@ -5,16 +5,10 @@ Sou estudante de programação, estudo gestão de tecnologia da informação na 
 estou no último semestre.
 
 Atualmente estudo as tecnologias, java, javascript, HTML5, CSS3, JQuery, Angular, 
-bootstrap, react native, POO.
+bootstrap, react native, POO, python, power bi, excel, cloud aws e inglês.
 
-Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
+Estou estudando para atuar como cientista de dados, engenheira de dados e futuramente eu desejo trabalhar com computação forence.
 </div>
-
-
-
-
-
-
 
   
 
@@ -37,6 +31,4 @@ Estou estudando para atuar como, backend, frontend e futuramente como fullstack.
           
   
  
-  ![snake gif](https://github.com/JessicaFirmino/JessicaFirmino/blob/output/github-contribution-grid-snake.svg)
-          
-    </div>
+  ![snake gif](https://github.com/JessicaFirmino/JessicaFirmino/blob/output/github-contribution-grid-snake.svg) </div>

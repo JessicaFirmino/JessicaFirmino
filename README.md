@@ -1,13 +1,15 @@
 <div align="center">
   Olá, eu sou a Jessica!
 
-Sou estudante de programação, estudo gestão de tecnologia da informação na unip, 
-estou no último semestre.
+Sou estudante de programação, sou formada em gestão de tecnologia da informação na unip, 
+e pós graduando em Business intelligence, big data e analytics - ciência de dados..
 
-Atualmente estudo as tecnologias, java, javascript, HTML5, CSS3, JQuery, Angular, 
-bootstrap, react native, POO, python, power bi, excel, cloud aws e inglês.
+Meu interesse é atuar com ciência, análise e tudo que envolva dados!
+Para isso estudo python, R, Excell, matemática, estatística, dentre outras tecs para esse fim.
 
-Estou estudando para atuar como cientista de dados, engenheira de dados e futuramente eu desejo trabalhar com computação forence.
+Tenho coenhecimentos básicos em: Java, javascript, HTML5, CSS3, JQuery, Angular, 
+react native, POO, python, power bi, excel, cloud aws e inglês.
+
 </div>
 
   

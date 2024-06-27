@@ -1,14 +1,24 @@
 <div align="center">
-  Olá, eu sou a Jessica!
 
-Sou estudante de programação, sou formada em gestão de tecnologia da informação na unip, 
-e pós graduando em Business intelligence, big data e analytics - ciência de dados..
+Claro, aqui está um texto melhorado para você:
 
-Meu interesse é atuar com ciência, análise e tudo que envolva dados!
-Para isso estudo python, R, Excell, matemática, estatística, dentre outras tecs para esse fim.
+Olá, eu sou a Jessica!
+Sou estudante de programação com formação em Gestão de Tecnologia da Informação pela UNIP e estou atualmente pós-graduada em Business Intelligence, Big Data e Analytics - Ciência de Dados e Algoritmo e lógica de programação pela
+Anhanguera Educacional.
 
-Tenho coenhecimentos básicos em: Java, javascript, HTML5, CSS3, JQuery, Angular, 
-react native, POO, python, power bi, excel, cloud aws e inglês.
+Tenho um forte interesse em atuar nas áreas de ciência, análise e tudo que envolva dados! Para alcançar meus objetivos, estou me dedicando ao estudo de Python, R, Excel, matemática, estatística, entre outras tecnologias relacionadas.
+
+Conhecimentos
+Principais áreas de estudo:
+
+Ciência de Dados: Python, R, estatística, análise de dados.
+Ferramentas de BI: Power BI, Excel.
+Desenvolvimento Web: HTML5, CSS3, JavaScript, Angular, React Native.
+Desenvolvimento de Software: Java, Programação Orientada a Objetos (POO).
+Cloud Computing: AWS.
+Outros: JQuery, inglês técnico leitura e escrita básicos.
+Objetivo
+Meu objetivo é desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
 </div>
 

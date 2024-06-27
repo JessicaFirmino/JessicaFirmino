@@ -11,12 +11,13 @@ Tenho um forte interesse em atuar nas áreas de ciência, análise e tudo que en
 Conhecimentos
 Principais áreas de estudo:
 </br>
-Ciência de Dados: Python, R, estatística, análise de dados.
-Ferramentas de BI: Power BI, Excel.
-Desenvolvimento Web: HTML5, CSS3, JavaScript, Angular, React Native.
-Desenvolvimento de Software: Java, Programação Orientada a Objetos (POO).
-Cloud Computing: AWS.
-Outros: JQuery, inglês técnico leitura e escrita básicos.
+Ciência de Dados: Python, R, estatística, análise de dados.</br>
+Ferramentas de BI: Power BI, Excel.</br>
+Desenvolvimento Web: HTML5, CSS3, JavaScript, Angular, React Native.</br>
+Desenvolvimento de Software: Java, Programação Orientada a Objetos (POO).</br>
+Cloud Computing: AWS.</br>
+Outros: JQuery, inglês técnico leitura e escrita básicos.</br>
+
 Objetivo
 Meu objetivo é desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 

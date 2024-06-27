@@ -10,7 +10,7 @@ Tenho um forte interesse em atuar nas áreas de ciência, análise e tudo que en
 
 Conhecimentos
 Principais áreas de estudo:
-
+</br>
 Ciência de Dados: Python, R, estatística, análise de dados.
 Ferramentas de BI: Power BI, Excel.
 Desenvolvimento Web: HTML5, CSS3, JavaScript, Angular, React Native.

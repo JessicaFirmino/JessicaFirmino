@@ -3,7 +3,7 @@
 Claro, aqui está um texto melhorado para você:
 
 Olá, eu sou a Jessica!
-Sou estudante de programação com formação em Gestão de Tecnologia da Informação pela UNIP e estou atualmente pós-graduada em Business Intelligence, Big Data e Analytics - Ciência de Dados e Algoritmo e lógica de programação pela
+Sou estudante de programação com formação em Gestão de Tecnologia da Informação pela UNIP e sou pós-graduada em Business Intelligence, Big Data e Analytics - Ciência de Dados e Algoritmo e lógica de programação pela
 Anhanguera Educacional.
 
 Tenho um forte interesse em atuar nas áreas de ciência, análise e tudo que envolva dados! Para alcançar meus objetivos, estou me dedicando ao estudo de Python, R, Excel, matemática, estatística, entre outras tecnologias relacionadas.

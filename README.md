@@ -1,6 +1,6 @@
 <div align="center">
 
-Claro, aqui está um texto melhorado para você:
+
 
 Olá, eu sou a Jessica!
 Sou estudante de programação com formação em Gestão de Tecnologia da Informação pela UNIP e sou pós-graduada em Business Intelligence, Big Data e Analytics - Ciência de Dados e Algoritmo e lógica de programação pela

@@ -1,25 +1,26 @@
 <div align="center">
 
 
+## 👩‍💻 Jessica - Data Scientist in Progress
 
-Olá, eu sou a Jessica!
-Sou estudante de programação com formação em Gestão de Tecnologia da Informação pela UNIP e sou pós-graduada em Business Intelligence, Big Data e Analytics - Ciência de Dados e Algoritmo e lógica de programação pela
-Anhanguera Educacional.
+### 🎓 Education
+- **UNIP**: Gestão de Tecnologia da Informação
+- **Pós graduação na Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
 
-Tenho um forte interesse em atuar nas áreas de ciência, análise e tudo que envolva dados! Para alcançar meus objetivos, estou me dedicando ao estudo de Python, R, Excel, matemática, estatística, entre outras tecnologias relacionadas.
+### 📚 Knowledge Areas
+- **Data Science**: Python, R, Estatística, Análise de Dados
+- **BI Tools**: Power BI, Excel
+- **Web Development**: HTML5, CSS3, JavaScript, Angular, React Native
+- **Software Development**: Java, POO
+- **Cloud Computing**: AWS
+- **Others**: JQuery, Inglês Técnico (Leitura e Escrita)
 
-Conhecimentos
-Principais áreas de estudo:
-</br>
-Ciência de Dados: Python, R, estatística, análise de dados.</br>
-Ferramentas de BI: Power BI, Excel.</br>
-Desenvolvimento Web: HTML5, CSS3, JavaScript, Angular, React Native.</br>
-Desenvolvimento de Software: Java, Programação Orientada a Objetos (POO).</br>
-Cloud Computing: AWS.</br>
-Outros: JQuery, inglês técnico leitura e escrita básicos.</br>
+### 🎯 Objective
+Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
-Objetivo
-Meu objetivo é desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
+---
+
+Espero que goste! Se precisar de ajustes, é só falar.
 
 </div>
 

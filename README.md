@@ -18,9 +18,6 @@
 ### 🎯 Objective
 Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
----
-
-Espero que goste! Se precisar de ajustes, é só falar.
 
 </div>
 

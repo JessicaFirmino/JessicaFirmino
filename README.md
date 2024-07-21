@@ -3,7 +3,7 @@
 
 
  <details>
-  <summary>👩🏾‍💻 Jessica - Data Scientist in Progress</summary>
+  <summary>👩🏾‍💻 Jessica - Data Scientist </summary>
 
 ### 🎓 Education
 - **UNIP**: Gestão de Tecnologia da Informação

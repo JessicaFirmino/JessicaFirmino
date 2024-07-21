@@ -3,21 +3,6 @@
 
 ## 👩‍💻 Jessica - Data Scientist in Progress
 
-### 🎓 Education
-- **UNIP**: Gestão de Tecnologia da Informação
-- **Pós graduação na Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
-
-### 📚 Knowledge Areas
-- **Data Science**: Python, R, Estatística, Análise de Dados
-- **BI Tools**: Power BI, Excel
-- **Web Development**: HTML5, CSS3, JavaScript, Angular, React Native
-- **Software Development**: Java, POO
-- **Cloud Computing**: AWS
-- **Others**: JQuery, Inglês Técnico (Leitura e Escrita)
-
-### 🎯 Objective
-Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
-
 
 </div>
 

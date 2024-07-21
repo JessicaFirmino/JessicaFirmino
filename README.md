@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## 👩‍💻 Jessica - Data Scientist in Progress
+## 👩🏾‍💻 Jessica - Data Scientist in Progress
 
 
 </div>

@@ -5,11 +5,11 @@
  <details>
   <summary>👩🏾‍💻 Jessica - Data Scientist </summary>
 
-### 🎓 Education
+### 🎓 Educação
 - **UNIP**: Gestão de Tecnologia da Informação
 - **Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
 
-### 📚 Knowledge Areas
+### 📚 Áreas de Conhecimento
 - **Data Science**: Python, R, Estatística, Análise de Dados
 - **BI Tools**: Power BI, Excel
 - **Web Development**: HTML5, CSS3, JavaScript, Angular, React Native
@@ -17,7 +17,7 @@
 - **Cloud Computing**: AWS
 - **Others**: JQuery, Inglês Técnico (Leitura e Escrita)
 
-### 🎯 Objective
+### 🎯 Objetivo
 Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
 </details>

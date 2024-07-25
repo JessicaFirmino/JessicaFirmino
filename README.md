@@ -2,20 +2,24 @@
   <details>
     <summary>👩🏾‍💻 Jessica - Cientista de Dados </summary>
 
-    ### 🎓 Educação
-    - **Graduação:Gestão de Tecnologia da Informação
-    - **Pós-Graduação: Business Intelligence:Big Data e Analytics-Ciência de Dados. Algoritmo e Lógica de Programação
+    <h3>🎓 Educação</h3>
+    <ul>
+      <li><strong>UNIP</strong>: Gestão de Tecnologia da Informação</li>
+      <li><strong>Anhanguera Educacional</strong>: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação</li>
+    </ul>
 
-    ### 📚 Áreas de Conhecimento
-    - **Ciência de Dados**: Python, R, Estatística, Análise de Dados
-    - **Ferramentas de BI**: Power BI, Excel
-    - **Desenvolvimento Web**: HTML5, CSS3, JavaScript, Angular, React Native
-    - **Desenvolvimento de Software**: Java, POO
-    - **Computação em Nuvem**: AWS
-    - **Outros**: JQuery, Inglês Técnico (Leitura e Escrita)
+    <h3>📚 Áreas de Conhecimento</h3>
+    <ul>
+      <li><strong>Ciência de Dados</strong>: Python, R, Estatística, Análise de Dados</li>
+      <li><strong>Ferramentas de BI</strong>: Power BI, Excel</li>
+      <li><strong>Desenvolvimento Web</strong>: HTML5, CSS3, JavaScript, Angular, React Native</li>
+      <li><strong>Desenvolvimento de Software</strong>: Java, POO</li>
+      <li><strong>Computação em Nuvem</strong>: AWS</li>
+      <li><strong>Outros</strong>: JQuery, Inglês Técnico (Leitura e Escrita)</li>
+    </ul>
 
-    ### 🎯 Objetivo
-    Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
+    <h3>🎯 Objetivo</h3>
+    <p>Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.</p>
 
   </details>
 </div>

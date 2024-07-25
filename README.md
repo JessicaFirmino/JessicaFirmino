@@ -1,27 +1,27 @@
-<div>
-  <details>
-    <summary>👩🏾‍💻 Jessica - Cientista de Dados </summary>
+<div align="center">
 
-    <h3>🎓 Educação</h3>
-    <ul>
-      <li><strong>UNIP</strong>: Gestão de Tecnologia da Informação</li>
-      <li><strong>Anhanguera Educacional</strong>: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação</li>
-    </ul>
 
-    <h3>📚 Áreas de Conhecimento</h3>
-    <ul>
-      <li><strong>Ciência de Dados</strong>: Python, R, Estatística, Análise de Dados</li>
-      <li><strong>Ferramentas de BI</strong>: Power BI, Excel</li>
-      <li><strong>Desenvolvimento Web</strong>: HTML5, CSS3, JavaScript, Angular, React Native</li>
-      <li><strong>Desenvolvimento de Software</strong>: Java, POO</li>
-      <li><strong>Computação em Nuvem</strong>: AWS</li>
-      <li><strong>Outros</strong>: JQuery, Inglês Técnico (Leitura e Escrita)</li>
-    </ul>
 
-    <h3>🎯 Objetivo</h3>
-    <p>Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.</p>
+ <details>
+  <summary>👩🏾‍💻 Jessica - Data Scientist </summary>
 
-  </details>
+### 🎓 Education
+- **UNIP**: Gestão de Tecnologia da Informação
+- **Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
+
+### 📚 Knowledge Areas
+- **Data Science**: Python, R, Estatística, Análise de Dados
+- **BI Tools**: Power BI, Excel
+- **Web Development**: HTML5, CSS3, JavaScript, Angular, React Native
+- **Software Development**: Java, POO
+- **Cloud Computing**: AWS
+- **Others**: JQuery, Inglês Técnico (Leitura e Escrita)
+
+### 🎯 Objective
+Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
+
+</details>
+
 </div>
 
 <div align="center">

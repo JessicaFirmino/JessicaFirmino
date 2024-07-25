@@ -1,35 +1,32 @@
-<div align="center">
+<div>
+  <details>
+    <summary>👩🏾‍💻 Jessica - Cientista de Dados </summary>
 
+    ### 🎓 Educação
+    - **UNIP**: Gestão de Tecnologia da Informação
+    - **Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
 
+    ### 📚 Áreas de Conhecimento
+    - **Ciência de Dados**: Python, R, Estatística, Análise de Dados
+    - **Ferramentas de BI**: Power BI, Excel
+    - **Desenvolvimento Web**: HTML5, CSS3, JavaScript, Angular, React Native
+    - **Desenvolvimento de Software**: Java, POO
+    - **Computação em Nuvem**: AWS
+    - **Outros**: JQuery, Inglês Técnico (Leitura e Escrita)
 
- <details>
-  <summary>👩🏾‍💻 Jessica - Data Scientist </summary>
+    ### 🎯 Objetivo
+    Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
-### 🎓 Education
-- **UNIP**: Gestão de Tecnologia da Informação
-- **Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
-
-### 📚 Knowledge Areas
-- **Data Science**: Python, R, Estatística, Análise de Dados
-- **BI Tools**: Power BI, Excel
-- **Web Development**: HTML5, CSS3, JavaScript, Angular, React Native
-- **Software Development**: Java, POO
-- **Cloud Computing**: AWS
-- **Others**: JQuery, Inglês Técnico (Leitura e Escrita)
-
-### 🎯 Objective
-Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
-
-</details>
-
+  </details>
 </div>
 
-  
-
-  <div align="center">
+<div align="center">
   <a href="https://github.com/JessicaFirmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaFirmino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaFirmino&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaFirmino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaFirmino&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
+</div>
+
 
 
 <div style="display: inline_block"><br>

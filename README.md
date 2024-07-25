@@ -3,8 +3,8 @@
     <summary>👩🏾‍💻 Jessica - Cientista de Dados </summary>
 
     ### 🎓 Educação
-    - **UNIP**: Gestão de Tecnologia da Informação
-    - **Anhanguera Educacional**: Business Intelligence, Big Data e Analytics, Ciência de Dados, Algoritmo e Lógica de Programação
+    - **Graduação:Gestão de Tecnologia da Informação
+    - **Pós-Graduação: Business Intelligence:Big Data e Analytics-Ciência de Dados. Algoritmo e Lógica de Programação
 
     ### 📚 Áreas de Conhecimento
     - **Ciência de Dados**: Python, R, Estatística, Análise de Dados
@@ -15,8 +15,7 @@
     - **Outros**: JQuery, Inglês Técnico (Leitura e Escrita)
 
     ### 🎯 Objetivo
-    Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos
-   e apoiar a tomada de decisões baseada em dados.
+    Desenvolver uma carreira sólida na área de Ciência de Dados, aplicando meus conhecimentos para extrair insights valiosos e apoiar a tomada de decisões baseada em dados.
 
   </details>
 </div>
